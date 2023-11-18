@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totwjfakd&layout=compact))
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totwjfakd&layout=compact)
 
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=totwjfakd)](https://solved.ac/totwjfakd)
