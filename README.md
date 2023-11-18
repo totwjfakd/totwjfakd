@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totwjfakd&layout=compact)
-
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=totwjfakd)](https://solved.ac/totwjfakd)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=totwjfakd&theme=cold)
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftotwjfakd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 
 </div>
